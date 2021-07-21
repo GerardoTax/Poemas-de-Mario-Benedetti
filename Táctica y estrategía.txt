@@ -5,10 +5,27 @@
 	mirarte
 	aprender como sos
 	quererte como sos
+<<<<<<< HEAD
 
 	-----------------
+=======
+	
+>>>>>>> 550217d9278bc3f7dcb424e11809657084183083
 	mi táctica es
 	hablarte
 	y escucharte
 	construir con palabras
+<<<<<<< HEAD
 	puente indestructible
+=======
+	un puente indestructible
+>>>>>>> 550217d9278bc3f7dcb424e11809657084183083
+
+	mi táctica es
+	ser franco
+	y saber que sos franca
+	y que no nos vendamos
+	simulacros
+	para que entre los dos
+	no haya telón
+	ni abismos
